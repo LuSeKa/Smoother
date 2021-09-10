@@ -1,5 +1,6 @@
 /*
- * Low pass filtr demo
+ * Low pass filter demo.
+ * 
  * The purpose is to show the effect of low pass filtering on higher
  * frequency components, as well as signal attenuation and phase lag.
  */ 
